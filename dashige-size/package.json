@@ -1,0 +1,15 @@
+{
+  "name": "dashige-size",
+  "version": "1.0.1",
+  "description": "四则运算",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib/index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["加法","减法","乘法","除法"],
+  "author": "",
+  "license": "ISC"
+}
